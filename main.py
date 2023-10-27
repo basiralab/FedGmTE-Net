@@ -37,7 +37,6 @@ All rights reserved.
 """
 import argparse
 import yaml
-import random
 import numpy as np
 from torch.backends import cudnn
 from data_loader import *
