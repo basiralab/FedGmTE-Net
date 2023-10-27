@@ -33,7 +33,7 @@ designed for brain multi-trajectory evolution prediction. Further, to make the m
 ### *Dependency Installattion*
 Copy and paste the following command to install base packages:
 ```sh
-$ conda activate taf-gnn
+$ conda activate fedgmte-net
 $ pip install numpy
 $ pip install matplotlib
 $ pip install scikit-learn
